@@ -1,5 +1,5 @@
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
-import App from './App'
+import Pagination from './Pagination'
 
-ReactDOM.render(<App />, document.querySelector('#root'))
+ReactDOM.render(<Pagination />, document.querySelector('#root'))
